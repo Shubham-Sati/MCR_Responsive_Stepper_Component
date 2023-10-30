@@ -1,3 +1,9 @@
+
+
+https://github.com/Shubham-Sati/MCR_Responsive_Stepper_Component/assets/68639424/b0b54fcb-5caa-4af0-9f83-9e53af0eb46c
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
